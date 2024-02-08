@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, AI
 - 🌱 I’m currently learning Pyhton
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://t.me/Zaba_Bruh
+
 
 <!---
 DartKing148/DartKing148 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
